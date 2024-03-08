@@ -1,4 +1,4 @@
-# Heartth-Hates
+# Hearth-Hates
 Calculadora de frequência cardiaca.
 
 (Calculadora de frequência cardíaca alvo) Ao fazer exercícios físicos, você pode utilizar um monitor de frequência cardíaca para ver
